@@ -1,0 +1,16 @@
+.nenv
+.nenv/
+Nicol.sock
+__pycache__
+__pycache__/
+documents/
+employee/
+media/
+.idea
+.idea/
+Pipfile
+Pipfile
+Pipfile.lock
+.ips_env/
+.ips_env
+errors_logs.txt
